@@ -1,0 +1,14 @@
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Progra LAB\7.0.0\Laboratorio 1\T1_JRRA_108712\bin\Debug\netcoreapp3.1\T1_JRRA_108712.exe
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Progra LAB\7.0.0\Laboratorio 1\T1_JRRA_108712\bin\Debug\netcoreapp3.1\T1_JRRA_108712.deps.json
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Progra LAB\7.0.0\Laboratorio 1\T1_JRRA_108712\bin\Debug\netcoreapp3.1\T1_JRRA_108712.runtimeconfig.json
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Progra LAB\7.0.0\Laboratorio 1\T1_JRRA_108712\bin\Debug\netcoreapp3.1\T1_JRRA_108712.runtimeconfig.dev.json
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Progra LAB\7.0.0\Laboratorio 1\T1_JRRA_108712\bin\Debug\netcoreapp3.1\T1_JRRA_108712.dll
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Progra LAB\7.0.0\Laboratorio 1\T1_JRRA_108712\bin\Debug\netcoreapp3.1\T1_JRRA_108712.pdb
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Progra LAB\7.0.0\Laboratorio 1\T1_JRRA_108712\obj\Debug\netcoreapp3.1\T1_JRRA_108712.csproj.AssemblyReference.cache
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Progra LAB\7.0.0\Laboratorio 1\T1_JRRA_108712\obj\Debug\netcoreapp3.1\T1_JRRA_108712.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Progra LAB\7.0.0\Laboratorio 1\T1_JRRA_108712\obj\Debug\netcoreapp3.1\T1_JRRA_108712.AssemblyInfoInputs.cache
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Progra LAB\7.0.0\Laboratorio 1\T1_JRRA_108712\obj\Debug\netcoreapp3.1\T1_JRRA_108712.AssemblyInfo.cs
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Progra LAB\7.0.0\Laboratorio 1\T1_JRRA_108712\obj\Debug\netcoreapp3.1\T1_JRRA_108712.csproj.CoreCompileInputs.cache
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Progra LAB\7.0.0\Laboratorio 1\T1_JRRA_108712\obj\Debug\netcoreapp3.1\T1_JRRA_108712.dll
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Progra LAB\7.0.0\Laboratorio 1\T1_JRRA_108712\obj\Debug\netcoreapp3.1\T1_JRRA_108712.pdb
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Progra LAB\7.0.0\Laboratorio 1\T1_JRRA_108712\obj\Debug\netcoreapp3.1\T1_JRRA_108712.genruntimeconfig.cache
