@@ -1,0 +1,14 @@
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Programación\Totito\bin\Debug\netcoreapp3.1\Totito.exe
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Programación\Totito\bin\Debug\netcoreapp3.1\Totito.deps.json
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Programación\Totito\bin\Debug\netcoreapp3.1\Totito.runtimeconfig.json
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Programación\Totito\bin\Debug\netcoreapp3.1\Totito.runtimeconfig.dev.json
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Programación\Totito\bin\Debug\netcoreapp3.1\Totito.dll
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Programación\Totito\bin\Debug\netcoreapp3.1\Totito.pdb
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Programación\Totito\obj\Debug\netcoreapp3.1\Totito.csproj.AssemblyReference.cache
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Programación\Totito\obj\Debug\netcoreapp3.1\Totito.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Programación\Totito\obj\Debug\netcoreapp3.1\Totito.AssemblyInfoInputs.cache
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Programación\Totito\obj\Debug\netcoreapp3.1\Totito.AssemblyInfo.cs
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Programación\Totito\obj\Debug\netcoreapp3.1\Totito.csproj.CoreCompileInputs.cache
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Programación\Totito\obj\Debug\netcoreapp3.1\Totito.dll
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Programación\Totito\obj\Debug\netcoreapp3.1\Totito.pdb
+C:\Users\Titoj\OneDrive\URL\Cuarto Ciclo URL\Introducción a la Programación\Totito\obj\Debug\netcoreapp3.1\Totito.genruntimeconfig.cache
